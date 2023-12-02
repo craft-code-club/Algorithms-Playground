@@ -48,7 +48,7 @@ Your contributions are welcome! Whether it's adding new challenges, improving do
 
 Interested in joining a community of like-minded individuals passionate about algorithms and coding challenges? We have a Discord group where we discuss problem-solving strategies, share tips, and motivate each other in our coding journey. 
 
-👉 Join our Discord study group: [Join Discord](https://discord.gg/your-invite-link)
+👉 Join our Discord study group: [Join Discord](https://discord.gg/rj4jruy7cn)
 
 Whether you're a beginner looking for guidance or an experienced coder willing to share your knowledge, our group is the perfect place to enhance your skills, collaborate on problems, and connect with others.
 
