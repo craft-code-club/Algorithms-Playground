@@ -20,8 +20,10 @@ Welcome to **Python AlgoPlayground**, each folder in this repository represents 
     git clone https://github.com/your-username/PythonAlgoPlayground.git
     ```
    
-1. **Install Dependencies:**
+1. **Initialize the venv and install Dependencies:**
     ```bash
+    python3 -m venv venv
+    source ./venv/bin/activate
     pip install -r requirements.txt
     ```
    
