@@ -16,12 +16,11 @@ For those who want to practice and master various binary tree traversal techniqu
 
 1. **Implement it**:
 
-    There is alerady a template for each traversal algorithm in the **bynary_tree_traversals.py**, you just need to implement the function there.
+    Check the selected language folder for instructions
 
 1. **Test it**, run:
-    ```bash
-    pytest ./bynary_tree_traversals/bin_tree_traversals_test.py -v
-    ```
+    Check the selected language folder for instructions
+
 ### Examples:
 
 <img src="./assets/binary-tree-example.png" style="background-color: white" alt="Binary Tree" width="300"/>
