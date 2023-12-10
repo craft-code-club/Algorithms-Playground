@@ -1,4 +1,4 @@
-# Python AlgoPlayground: Your Algorithm Practice Hub
+# AlgoPlayground: Your Algorithm Practice Hub
 
 `This is a leetcode complement, for the problems that are not in leetcode.`
 
@@ -19,17 +19,17 @@ Welcome to **AlgoPlayground**, each folder in this repository represents a uniqu
     ```bash
     git clone https://github.com/your-username/Algorithms-Playground.git
     ```
-   
-1. **Select your prefered language, each language has its own folder, check the readme.md for each language steps:**
-   
-1. **Read the Instructions:**
-   
+
+2. **Select your prefered language, each language has its own folder, check the readme.md for each language steps:**
+
+3. **Read the Instructions:**
+
     There is a document in the root of this repo for each technique/algorithm, select one and good hacking.
-   
-1. **Implement Your Solution:**
+
+4. **Implement Your Solution:**
 
     Fill in your code in the designated sections of the provided language files.
-   
+
 
 ## Contributing
 
@@ -37,7 +37,7 @@ Your contributions are welcome! Whether it's adding new challenges, improving do
 
 ## Join Our Community
 
-Interested in joining a community of like-minded individuals passionate about algorithms and coding challenges? We have a Discord group where we discuss problem-solving strategies, share tips, and motivate each other in our coding journey. 
+Interested in joining a community of like-minded individuals passionate about algorithms and coding challenges? We have a Discord group where we discuss problem-solving strategies, share tips, and motivate each other in our coding journey.
 
 👉 Join our Discord study group: [Join Discord](https://discord.gg/rj4jruy7cn)
 
