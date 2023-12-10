@@ -1,7 +1,7 @@
 ## Binary Tree Traversal Playground
 
 This is a playground for binary tree traversal algorithms.
-For those who want to practice and master various binary tree traversal techniques 
+For those who want to practice and master various binary tree traversal techniques.
 
 ### To-Do:
 
@@ -23,7 +23,7 @@ For those who want to practice and master various binary tree traversal techniqu
 
 ### Examples:
 
-<img src="./assets/binary-tree-example.png" style="background-color: white" alt="Binary Tree" width="300"/>
+<img src="../../assets/binary-tree-example.png" style="background-color: white" alt="Binary Tree" width="300"/>
 
 For the above tree, the traversals should return:
 
