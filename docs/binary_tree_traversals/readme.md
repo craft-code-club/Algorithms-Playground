@@ -27,10 +27,10 @@ For those who want to practice and master various binary tree traversal techniqu
 
 For the above tree, the traversals should return:
 
-- Pre-order traversal: `[1, 2, 4, 5, 3, 6, 7]`
-- In-order traversal: `[4, 2, 5, 1, 6, 3, 7]`
-- Post-order traversal: `[4, 5, 2, 6, 7, 3, 1]`
-- Level-order traversal: `[1, 2, 3, 4, 5, 6, 7]`
+- Pre-order traversal: `[1, 7, 2, 6, 5, 11, 9, 9, 5]`
+- In-order traversal: `[2, 7, 5, 6, 11, 1, 9, 5, 9]`
+- Post-order traversal: `[2, 5, 11, 6, 7, 5, 9, 9, 1]`
+- Level-order traversal (BFS): `[1, 7, 9, 2, 6, 9, 5, 11, 5]`
 
 ## Explanations
 
@@ -44,7 +44,7 @@ In-order traversal is a type of depth-first search (DFS) algorithm. It is a recu
 
 ### Post-order Traversal
 
-Post-order traversal is a type of depth-first search (DFS) algorithm. It is a recursive algorithm that starts from the root node and explores as far as possible along each branch. Visiting/Processing the current node after its child nodes (first left, so right childs, after it visit the parent).
+Post-order traversal is a type of depth-first search (DFS) algorithm. It is a recursive algorithm that starts from the root node and explores as far as possible along each branch. Visiting/Processing the current node after its child nodes (first left, so right childs, after it visit the parent). Post-order just process a parent node after its childs.
 
 ### Level-order Traversal
 

@@ -1,4 +1,11 @@
+# Python
 .pytest_cache
 __pycache__
 venv
 .ideaa
+
+
+# JavaScript / TypeScript / Node
+**/out
+out
+node_modules
